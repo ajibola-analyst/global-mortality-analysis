@@ -1,12 +1,13 @@
 # The Anatomy of Global Mortality (2015-2025) 
 
-![Executive Dashboard Preview](images/dashboard.jpg)
+![Executive Dashboard Preview](images/dashboard.png)
 
 ## Project Overview
 This project transforms a raw synthetic dataset into an interactive Tableau dashboard designed to drive strategic understanding of global health vulnerabilities. The objective of this build is to serve as an analytical tool that identifies mortality trends, maps geographic risks, and pinpoints the underlying socio-economic factors driving causes of death globally. 
 
-**Live Interactive Dashboard:** [https://public.tableau.com/views/TheAnatomyofGlobalMortality/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
-**LinkedIn Profile:** [https://www.linkedin.com/in/ajibola-odeyemi-6b6502381]
+**Live Interactive Dashboard:** https://public.tableau.com/views/TheAnatomyofGlobalMortality/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**LinkedIn Profile:** https://www.linkedin.com/in/ajibola-odeyemi-6b6502381
 
 ## The Analytical Problem
 The core mission of this analysis was to answer three primary questions to guide global health strategy and resource allocation:
